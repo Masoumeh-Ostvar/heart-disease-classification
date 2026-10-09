@@ -99,12 +99,6 @@ Among the evaluated algorithms, Logistic Regression achieved the best overall pe
 - Interpretation of classification metrics
 - Analysis of class imbalance issues in medical data
 
-## Academic Information
-
-**Course:** Artificial Intelligence and Biomedical Informatics Bootcamp
-**Project Type:** Machine Learning Classification Project
-**Dataset:** UCI Heart Disease Dataset
-
 ## Documentation
 
 A brief project report describing the implementation process, model training, and inference workflow is available in:
